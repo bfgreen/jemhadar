@@ -43,7 +43,7 @@ html {
 html { 
 	background-color: var(--main-background-color); 
 	color: var(--main-text-color); 
-	font-family: "Montserrat", serif; 
+	font-family: "Syne Mono", serif; 
 	font-feature-settings: "kern" on; 
 	font-variant-ligatures: common-ligatures; 
 	height: 100%; 
