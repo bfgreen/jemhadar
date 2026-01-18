@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"uri": "vscode-vfs://github/bfgreen/jemhadar"
+		},
+		{
+			"name": "jemhadar",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
